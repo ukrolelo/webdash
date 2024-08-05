@@ -1,2 +1,2 @@
 
-web development dashboard
+web development CLI dashboard
